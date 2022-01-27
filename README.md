@@ -1,2 +1,2 @@
 # oas-network
-ddos attacks on minecraft north through the site + program source code
+ddos attacks on minecraft server through the site + program source code
